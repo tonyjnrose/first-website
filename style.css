@@ -1,0 +1,10 @@
+.first{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
+.second{
+    background-color: blueviolet;
+    color: chocolate;
+    text-align: unset;
+}
